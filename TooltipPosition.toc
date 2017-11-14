@@ -1,0 +1,9 @@
+## Interface: 70300
+## Title: TooltipPosition
+## Title-koKR: 툴팁위치
+## Notes: Change ToolTip Position
+## Notes-koKR: 툴팁의 위치를 변경합니다
+## Author: Summertaker
+## Version: 1.0
+
+TooltipPosition.lua

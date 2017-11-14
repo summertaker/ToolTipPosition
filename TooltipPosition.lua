@@ -1,0 +1,5 @@
+hooksecurefunc("GameTooltip_SetDefaultAnchor", function(self, parent)
+	self:SetOwner(parent, "ANCHOR_NONE")
+	self:ClearAllPoints()
+	self:SetPoint("BOTTOMLEFT", UIParent, "BOTTOMRIGHT", -520, 120)
+end)
